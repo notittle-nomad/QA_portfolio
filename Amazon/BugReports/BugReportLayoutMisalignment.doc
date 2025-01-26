@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#SCRUM-10] Layout misalignment and horizontal scrolling required</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://vorobeialla.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [SCRUM-10]&nbsp;<a href="https://vorobeialla.atlassian.net/browse/SCRUM-10">Layout misalignment and horizontal scrolling required</a>
+            <span class="subText">
+               Created: 26/січ./25                   &nbsp;Updated: 26/січ./25
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">To Do</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://vorobeialla.atlassian.net/secure/BrowseProject.jspa?id=10000">Amazon </a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Bug
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="70121:e3176a5a-b0e1-40e1-aab6-9fba7e43eed4"
+                id="word_reporter_70121:e3176a5a-b0e1-40e1-aab6-9fba7e43eed4"
+                href="https://vorobeialla.atlassian.net/secure/ViewProfile.jspa?accountId=70121%3Ae3176a5a-b0e1-40e1-aab6-9fba7e43eed4">
+                    Alla Vorobei
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="70121:e3176a5a-b0e1-40e1-aab6-9fba7e43eed4"
+                id="word_assignee_70121:e3176a5a-b0e1-40e1-aab6-9fba7e43eed4"
+                href="https://vorobeialla.atlassian.net/secure/ViewProfile.jspa?accountId=70121%3Ae3176a5a-b0e1-40e1-aab6-9fba7e43eed4">
+                    Alla Vorobei
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10009-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://vorobeialla.atlassian.net/images/icons/attach/file.gif" height="16" width="16" border="0" alt="File">
+                    Screen Recording 2025-01-25 at 16.55.25.mov &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10009-value" class="value" bgcolor="#ffffff" width="80%">      0|i0001z:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10009-value" class="value" bgcolor="#ffffff" width="80%">SCRUM Sprint 1</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <ul>
+	<li><span class="nobr"><a href="/rest/api/3/attachment/content/10001" title="Screen Recording 2025-01-25 at 16.55.25.mov attached to SCRUM-10" data-attachment-type="file" data-attachment-name="Screen Recording 2025-01-25 at 16.55.25.mov" data-media-services-type="file" data-media-services-id="0213e18f-0289-45a9-8160-867507704cbe" rel="noreferrer">Screen Recording 2025-01-25 at 16.55.25.mov<sup><img class="rendericon" src="/images/icons/link_attachment_7.gif" height="7" width="7" align="absmiddle" alt="" border="0"/></sup></a></span> Type:*<br/>
+Bug</li>
+</ul>
+
+
+<p><b>Priority:</b><br/>
+High</p>
+
+<p><b>Status:</b><br/>
+Open</p>
+
+<p><b>Assigned To:</b><br/>
+Alla Vorobei</p>
+
+<p><b>Environment:</b></p>
+
+<p>Chrome 131.0.6778.266, Edge 132.0.2957.115, Safari 20619.2.8.11.12, Firefox 134.0.1</p>
+
+<p><b>Preconditions:</b></p>
+
+<p>The Amazon homepage is loaded successfully.<br/>
+The Developer Tools are opened.</p>
+
+<p><b>Steps to Reproduce:</b></p>
+
+<p>Open the Amazon homepage on a desktop browser.<br/>
+Resize the browser window to different screen widths (e.g., 1024px, 768px, 320px).<br/>
+Observe the layout behavior for widths narrower than 800px.</p>
+
+<p><b>Expected Results:</b></p>
+
+<p>The website layout adjusts seamlessly to different screen sizes.<br/>
+All key elements (navigation menu, CTAs, product details) remain visible and functional.<br/>
+No horizontal scrolling is required on any screen size.</p>
+
+<p><b>Actual Results:</b></p>
+
+<p>On screens with a width of less than 800px the layout is misaligned.<br/>
+Horizontal scrolling is required.<br/>
+The issue occurs in Chrome, Edge, and Safari but does not reproduce in Firefox.<br/>
+The website is not fully responsive for smaller screen sizes.</p>
+
+<p><b>Reproducibility:</b></p>
+
+<p>_<b>Affected Browsers:</b> _Chrome, Edge, Safari.<br/>
+<em><b>Not Affected:</b></em> Firefox.</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Generated at Sun Jan 26 14:39:21 GMT 2025 by Alla Vorobei using Jira 1001.0.0-SNAPSHOT#100277-rev:f2255061145630f51ec9c4f75fb007a4c13e318b.
+
+</body>
+</html>
